@@ -9,4 +9,6 @@ Please construct an application, that will help your friends track your expenses
  - App allows to enter name of your friends, service he/she has paid for and the amount;
  - Calculates the sum of all payments made by the person;
  - Shows the sum that you should send to each of your friends, in order not to owe anything to each other;
- - Application should aim at doing minimal transactions between the frinds. 
+ - Application should aim at doing minimal transactions between the friends.
+ 
+ ![image](https://user-images.githubusercontent.com/24562497/40420677-bea9794e-5e91-11e8-933c-203f91cf7379.png)
